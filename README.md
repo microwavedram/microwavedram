@@ -17,13 +17,14 @@
   <img src="https://skillicons.dev/icons?i=nginx" height="60" alt="nginx logo" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" />
   <img src="https://skillicons.dev/icons?i=redis" height="60" alt="redis logo" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
   <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo" />
   <img src="https://skillicons.dev/icons?i=windows" height="60" alt="windows logo" />
   <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo" />
 </div>
 
 <h2>SWRC</h2>
-<p>A combined minecraft client modification and typescript server designed to manage various races held utilising websockets for realtime communication and a server that replicated state between multiple authorative and non authoriative clients</p>
+<p>A combined minecraft client modification and typescript server designed to manage various races held utilising websockets for realtime communication and a server that replicates state between multiple authorative and non authoriative clients</p>
 
 | Server  | https://github.com/microwavedram/swrc_server |
 | ------------- | ------------- |
